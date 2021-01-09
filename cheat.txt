@@ -1,0 +1,9 @@
+Configuring Global
+
+git config --global user.name "<your name>"
+git config --global user.email "<your email>"
+
+git config --list
+
+1. git init : for initialising local folder with git
+2. git add : for adding files to the staging area
